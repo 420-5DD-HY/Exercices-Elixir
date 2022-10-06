@@ -33,5 +33,10 @@
         ]
       }
     ]
+  },
+  "extensions": {
+    "recommendations": [
+      "JakeBecker.elixir-ls"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "jakebecker.elixir-ls",
+        "github.classroom",
+        "github.copilot",
+        "berublan.vscode-log-viewer",
+        "amoosbr.markdown-imsize",
+        "corentinartaud.pdfpreview",
+        "phoenixframework.phoenix",
+        "vitaliymaz.vscode-svg-previewer",
+        "dunstontc.vscode-gitignore-syntax"
+    ]
+}
